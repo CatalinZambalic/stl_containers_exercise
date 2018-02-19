@@ -1,0 +1,4 @@
+Gheorghe, Popescu, 35,Male,1.85,74.3,true,str. Grigore Ureche nr.1 bl. 12 ap. 5,+40752342179,popescu.gheorghe@gmail.com
+Ionela, Marin, 28,Female,1.73,56.0,false,str. Octav Bancila nr.3 bl. 9 ap. 16,+40754219781,marin_ionela@yahoo.com
+Vasile, Ionescu, 35,Male,1.85,74.3,true,str. Grigore Ureche nr.1 bl. 12 ap. 5,+40752342179,ionescu.vasile@gmail.com
+Daniela, Teodorescu, 28,Female,1.73,56.0,false,str. Octav Bancila nr.3 bl. 9 ap. 16,+40754219781,teodorescu_daniela@yahoo.com
