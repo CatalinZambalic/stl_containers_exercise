@@ -1,0 +1,9 @@
+Alex,Cosmin,23,Male,1.73,72.5,false,Str.Gheorghe Doja|nr.1|bl.12|ap.4,0758145234,alex.cosmin@gmail.com
+Alex,Andrei,23,Male,1.73,72.5,false,Str.Gheorghe Doja|nr.1|bl.12|ap.4,0758145234,alex.cosmin@gmail.com
+Alfred,Alexandru,23,Male,1.73,72.5,false,Str.Gheorghe Doja|nr.1|bl.12|ap.4,0758145234,alex.cosmin@gmail.com
+Gabriel,Salateanu,23,Male,1.73,72.5,false,Str.Gheorghe Doja|nr.1|bl.12|ap.4,0758145234,alex.cosmin@gmail.com
+Alex,Cosmin,23,Male,1.73,72.5,false,Str.Gheorghe Doja|nr.1|bl.12|ap.4,0758145234,alex.cosmin@gmail.com
+Alex,Cosmin,23,Male,1.73,72.5,false,Str.Gheorghe Doja|nr.1|bl.12|ap.4,0758145234,alex.cosmin@gmail.com
+Alex,Cosmin,23,Male,1.73,72.5,false,Str.Gheorghe Doja|nr.1|bl.12|ap.4,0758145234,alex.cosmin@gmail.com
+Alex,Cosmin,23,Male,1.73,72.5,false,Str.Gheorghe Doja|nr.1|bl.12|ap.4,0758145234,alex.cosmin@gmail.com
+Alex,Cosmin,23,Male,1.73,72.5,false,Str.Gheorghe Doja|nr.1|bl.12|ap.4,0758145234,alex.cosmin@gmail.com
